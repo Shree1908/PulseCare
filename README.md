@@ -35,5 +35,5 @@ The system exposes multiple RESTful APIs for managing hospital operations such a
 It also implements secure authentication and authorization mechanisms, including JWT-based login, OAuth2 authentication, and Role-Based Access Control (RBAC) to protect application endpoints. 
 
 Author
-Shree Kalyankar
+Shree Kalyankar,
 GitHub: https://github.com/Shree1908
